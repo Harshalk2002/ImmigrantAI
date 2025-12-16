@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌍 Visa Journey Agent
 
 An AI-powered compliance assistant for F-1 visa holders, providing personalized immigration guidance through intelligent document retrieval and multi-agent orchestration.
